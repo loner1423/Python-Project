@@ -15,3 +15,5 @@
 - Python 3.8+
 - Optional libraries:
   - `requests` (for Weather) → `pip install requests`
+  -  `pip install pytube`
+  -  ` pip install SpeechRecognition pyttsx3`
